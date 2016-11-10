@@ -32,7 +32,7 @@
     "hyperstream": "^1.2.2",
     "meow": "^3.7.0",
     "opn": "^4.0.2",
-    "readable-stream": "^2.1.4",
+    "readable-stream": "^2.2.1",
     "resolve": "^1.1.7",
     "server-router": "^3.0.0",
     "sheetify": "^5.0.5",
